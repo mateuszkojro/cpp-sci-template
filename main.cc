@@ -41,6 +41,6 @@ int main(int argc, char **argv) {
   plot.show();
 
   // Save the plot to a PDF file
-  plot.save("example-3d-helix.png");
+  plot.save("example.png");
 
 }
