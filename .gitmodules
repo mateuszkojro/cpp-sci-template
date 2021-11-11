@@ -1,0 +1,15 @@
+[submodule "xtl"]
+	path = xtl
+	url = https://github.com/xtensor-stack/xtl
+[submodule "xtensor"]
+	path = xtensor
+	url = https://github.com/xtensor-stack/xtensor
+[submodule "xsimd"]
+	path = xsimd
+	url = https://github.com/xtensor-stack/xsimd
+[submodule "xtensor-io"]
+	path = xtensor-io
+	url = https://github.com/xtensor-stack/xtensor-io
+[submodule "sciplot"]
+	path = sciplot
+	url = https://github.com/sciplot/sciplot
